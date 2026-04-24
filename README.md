@@ -8,7 +8,7 @@ My primary technical interest lies in machine learning, specifically transformer
 
 ### Tech stack & tools
 * **Languages:** Python (including the most up-to-date features in 3.13+), HTML, CSS, Light experience in Java, JavaScript, C++
-* **Machine Learning & Data:** PyTorch, TensorFlow, Pydantic V2, OpenCV, Numpy, Scipy, Scikit-learn
+* **Machine Learning & Data:** PyTorch, TensorFlow, Pydantic V2, OpenCV, Numpy, Scipy, Scikit-learn, Pandas
 * **UI:** Tkinter, customtkinter, flask
 * **Development & Tooling:** uv, Ruff, Ty, pytest
 
